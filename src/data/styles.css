@@ -1,12 +1,11 @@
 :root {
-	/* ------- colors ------- */
-	--primary-color: #27272a;
-	--secondary-color: #65656d;
-	--tertiary-color: #acacb4;
-	--quaternary-color: #e4e4e7;
-	--link-color: #14b8a6;
-	/* ---------------------- */
-
+  /* ------- colors ------- */
+  --primary-color: #4a4e69; /* A muted, dark slate */
+  --secondary-color: #9a8c98; /* A soft, vintage mauve */
+  --tertiary-color: #c9ada7; /* A light, dusty pink */
+  --quaternary-color: #f2e9e4; /* A warm off-white for slight contrast against pure white */
+  --link-color: #c44536; /* A striking, rich red for links to stand out */
+  /* ---------------------- */
 	/* ------- fonts ------- */
 	--primary-font: "Heebo", sans-serif;
 	--secondary-font: "Roboto", sans-serif;
